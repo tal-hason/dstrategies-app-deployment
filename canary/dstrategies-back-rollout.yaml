@@ -17,10 +17,10 @@ spec:
       steps:
       - setWeight: 10
       - pause:
-          duration: <TIME>
+          duration: 30s
       - setWeight: 50
       - pause:
-          duration: <TIME>
+          duration: 30s
   template:
     metadata:
       labels:
